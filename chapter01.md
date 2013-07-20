@@ -20,3 +20,8 @@ If you still wonder why you sould code, then I assume that Facebook, Twitter, Go
 
 ## Where do I start?
 
+This is the first question that comes to anyone's mind when they think about coding. To be frank it is one of the most important phases because the first step sets the tone for your following years. If you happen to look the web, you will see that each website you see has a few things to offer you. When you look closer you will find that you can work in any of the components that form a website.
+
+From experience I have seen that many beginners get down to creating their websites in their first few days. This might come across as a great thing to many people but I think that they should first take a look at all their options and then get dirty with one.
+
+Learning to create websites is not a very difficult thing and in the present scenario you will come across over thousands of blogs and screencasts on the same. I still remember the time when I saw Chris Coyier's screencast- PDF to HTML.
