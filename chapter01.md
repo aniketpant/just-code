@@ -11,7 +11,12 @@ Drawing an analogy on the same here, let's say we talk about dance. Anyone can d
 ## Why code?
 
 It's simple enough for me.
+
 > To make the world a better place.
 
-I believe in the above statement because the web definitely has the power to change the way things happen and it diminished the boundaries of physical interaction, allowing a faster exchange of ideas
+I believe in the above statement because the web definitely has the power to change the way things happen and it diminished the boundaries of physical interaction, allowing a faster exchange of ideas. Creating and solving problems is human nature, and there are plenty of examples to justify the statement.
+
+If you still wonder why you sould code, then I assume that Facebook, Twitter, Google or for that matter any web based service haven't been a part of your life.
+
+## Where do I start?
 
