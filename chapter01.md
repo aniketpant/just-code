@@ -14,13 +14,13 @@ It's simple enough for me.
 
 > To make the world a better place.
 
-I believe in the above statement because the web definitely has the power to change the way things happen and it diminished the boundaries of physical interaction, allowing a faster exchange of ideas. Creating and solving problems is human nature, and there are plenty of examples to justify the statement.
+I believe in the above statement because the web definitely has the power to change the way things happen and it diminishes the boundaries of physical interaction, allowing a faster exchange of ideas. Creating and solving problems is human nature, and there are plenty of examples to justify the statement.
 
 If you still wonder why you should code, then I assume that Facebook, Twitter, Google or for that matter any web based service haven't been a part of your life.
 
 ## Where do I start?
 
-This is the first question that comes to anyone's mind when they think about coding. To be frank it is one of the most important phases because the first step sets the tone for your following years. If you happen to look the web, you will see that each website you see has a few things to offer you. When you look closer you will find that you can work in any of the components that form a website.
+This is the first question that comes to anyone's mind when they think about coding. To be frank it is one of the most important phases because the first step sets the tone for your following years. If you look at the web, you will see that each website has a few things to offer. When you look closer you will find that you can work in any of the components that form a website.
 
 From experience I have seen that many beginners get down to creating their websites in their first few days. This might come across as a great thing to many people but I think that they should first take a look at all their options and then get dirty with one.
 
@@ -42,4 +42,4 @@ Take small steps and remain determined.
 
 > I was talking to a friend one day who happens to be a User Interface Designer. On a totally unrelated note, his background is fine arts. We were discussing about sketching and he started showing me different strokes and how one could easily make all of them. I had learnt to sketch many years ago but I could never sketch strokes like him. The only answer he gave me was "Keep practising".
 
-This simple statement has been told to us over and over, in many different ways. "Practice makes a man perfect" is one of the most commonly used phrase and it is true. The more you practice, the better you will become. It is obvious that you will fall at times and you might even be stuck with some problems you won't be able to solve. In these times, the community will be there to support you. Yes, we are going to be there for you.
+This simple statement has been told to us over and over, in many different ways. "Practice makes a man perfect" is one of the most commonly used phrase and it is true. The more you practice, the better you will become. It is obvious that you will fall at times and you might even get stuck with some problems you won't be able to solve. In these times, the community will be there to support you. Yes, we are going to be there for you.
