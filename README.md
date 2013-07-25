@@ -1,4 +1,4 @@
 Beginners Guide To Development
 ==============================
 
-Working directory for a small book.
+Working directory for a small handbook.
