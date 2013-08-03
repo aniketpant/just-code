@@ -1,4 +1,4 @@
-# Chapter 02: Motivation
+# Chapter 2: Motivation
 
 One of the few things anyone struggle with is motivation. It is the key ingredient in doing well and you really can't start unless you are really want to.
 

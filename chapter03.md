@@ -1,4 +1,4 @@
-# Chapter 03: Starting to code
+# Chapter 3: Starting to code
 
 This should be easy. There are many things you can start with and it's important to experiment with your options.
 
