@@ -40,6 +40,6 @@ Mind you, if hard work is not your cup of tea then you might want to think of so
 
 Take small steps and remain determined.
 
-> I was talking to a friend one day who happens to be a User Interface Designer. On a totally unrelated note, his background is fine arts. We were discussing about sketching and he started showing me different strokes and how one could easily make all of them. I had learnt to sketch many years ago but I could never sketch strokes like him. The only answer he gave me was "Keep practicing".
+> I was talking to a friend one day who happens to be a User Interface Designer. On a totally unrelated note, his background is fine arts. We were discussing about sketching and he started showing me different strokes and how one could easily make all of them. I had learnt to sketch many years ago but I could never sketch strokes like him. The only answer he gave me was "Keep practising".
 
 This simple statement has been told to us over and over, in many different ways. "Practice makes a man perfect" is one of the most commonly used phrase and it is true. The more you practice, the better you will become. It is obvious that you will fall at times and you might even get stuck with some problems you won't be able to solve. In these times, the community will be there to support you. Yes, we are going to be there for you.
