@@ -1,7 +1,7 @@
-Beginners Guide To Development
-==============================
+Beginners Guide To Web Development
+==================================
 
-## Contents 
+## Contents
 
 - What is web development all about?
 - Why develop the web?
