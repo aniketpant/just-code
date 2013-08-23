@@ -1,16 +1,16 @@
 # Chapter 1: Why are you here?
 
-Most people who are working in the web industry ended up here because they were passionate about it. It doesn't take courses or formal education to do well in this field. All you need to have is the will to put in hours of effort and the ability to think beyond what you can see.
+Most people who are working in the web industry ended up here because they are passionate about it. It doesn't take courses or formal education to do well in this field. All you need to have is the will to put in hours of effort and the ability to think beyond what you can see.
 
 ## Coding is an art
 
 For long, people have been relating coding with sciences, but I feel that it isn't right. Programming may require education but _anyone_ can learn to code. This is why I think of it as a skill and associate it with art.
 
-Drawing an analogy on the same here, let's say we talk about dance. Anyone can dance well if they can put in the effort and dedication to learn it. They might not become an exceptional dancer but they can definitely pick it up and do well. That's the same case with coding.
+Drawing an analogy on the same here, let's talk about dance. Anyone can dance well if they can put in the effort and dedication to learn it. They might not become exceptional dancers but they can definitely pick it up and do well. The same goes for coding.
 
 ## Why code?
 
-It's simple enough for me.
+If I were to answer the above question, I would say just one thing.
 
 > To make the world a better place.
 
@@ -24,11 +24,11 @@ This is the first question that comes to anyone's mind when they think about cod
 
 From experience I have seen that many beginners get down to creating their websites in their first few days. This might come across as a great thing to many people but I think that they should first take a look at all their options and then get dirty with one.
 
-Learning to create websites is not a very difficult thing and nowadays you will come across over thousands of blogs and screencasts on the same. I still remember the time when I saw Chris Coyier's screencast - PDF to HTML.
+Learning to create websites is not a very difficult thing and nowadays you will come across over thousands of blogs and screencasts on the same. I still remember the time when I saw Chris Coyier's screencast on converting PSD to HTML.
 
 ## Your background doesn't count and never will
 
-The following statements might not be relevant to your country or region, but in India there's a prevalent mindset that degrees prove your worth in the society.
+This might not be relevant to your country or region, but in a few countries I am familiar with there's a prevalent mindset that degrees prove your worth in the society.
 
 While we talk about web development specifically, one doesn't need a degree to do well. As I said before, it is a skill and can be easily learnt by anyone. Though, there are few things that are expected from anyone who wishes to excel and these expectations exist for any skill.
 
@@ -42,4 +42,4 @@ Take small steps and remain determined.
 
 > I was talking to a friend one day who happens to be a User Interface Designer. On a totally unrelated note, his background is fine arts. We were discussing about sketching and he started showing me different strokes and how one could easily make all of them. I had learnt to sketch many years ago but I could never sketch strokes like him. The only answer he gave me was '_Keep practicing_'.
 
-This simple statement has been told to us over and over, in many different ways. "Practice makes a man perfect" is one of the most commonly used phrase and it is true. The more you practice, the better you will become. It is obvious that you will fall at times and you might even get stuck with some problems you won't be able to solve. In these times, the community will be there to support you. Yes, we are going to be there for you.
+This simple statement has been told to us over and over, in many different ways. '_Practice makes a man perfect_' is one of the most commonly used phrase and it is true. The more you practice, the better you will become. It is obvious that you will fall at times and you might even get stuck with some problems you won't be able to solve. In these times, the community will be there to support you. Yes, we are going to be there for you.
