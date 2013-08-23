@@ -4,10 +4,13 @@ This should be easy. There are many things you can start with and it's important
 
 If you are planning to go into web development, in that case you need to learn two sets of languages.
 
-1. Front-end languages:
-	These would include **HTML**, **CSS** and **JavaScript**.
-2. Back-end languages:
-	**PHP**, **Python** and **Ruby** are the popular scripting languages. For interacting with databases, you will need either **SQL** or **NoSQL**.
+Front-end languages
+
+: These would include **HTML**, **CSS** and **JavaScript**.
+
+Back-end languages
+
+: **PHP**, **Python** and **Ruby** are the popular scripting languages. For interacting with databases, you will need either **SQL** or **NoSQL**.
 
 ## Take your pick and get started
 

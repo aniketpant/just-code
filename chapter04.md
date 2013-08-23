@@ -37,14 +37,12 @@ Moving on another step, you will come across something called as the `<head>` ta
     <html>
     <head>
       <title>Your page title</title>
-
       <link rel="stylesheet" type="text/css" href="path/to/some/stylesheet">
       <style type="text/css">
         /**
          * You can write some CSS here
          */
       </style>
-
       <script type="text/javascript" src="path/to/some/script"></script>
       <script type="text/javascript">
         /**
@@ -67,7 +65,7 @@ There are three ways to write CSS. We will discuss the technicalities of it in t
 
 Similar to stylesheets, JavaScripts can be either requested on a page or written. To use an external JavaScript, you can make use of the `<script>` tag.
 
-Note: The number of `<link>` and `<script>` you have on your page, is equal to the number of GET requests sent.
+I> The number of `<link>` and `<script>` you have on your page, is equal to the number of GET requests sent.
 
 ## Body
 
@@ -80,7 +78,6 @@ Whatever comes inside the body is what you see on the page excluding the stylesh
     </head>
     <body>
       <h1>Sample Page Title</h1>
-
       <p>This is some paragraph text. This text can also contain a <a href="#">link</a>.</p>
     </body>
     </html>
