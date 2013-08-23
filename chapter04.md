@@ -14,11 +14,9 @@ When we talk about HTML, it uses a number of tags which come in two categories. 
 
 It's extremely important to the browser where your HTML code starts and where it ends. This is done by using a `<html>` tag.
 
-```html
-<html>
-  ...
-</html>
-```
+    <html>
+      ...
+    </html>
 
 ## The DOCTYPE
 
@@ -26,40 +24,36 @@ The DOCTYPE also known as document type declaration, is an instruction which ass
 
 The doctype precedes the `<html>` tag.
 
-```html
-<!DOCTYPE html>
-<html>
-  ...
-</html>
-```
+    <!DOCTYPE html>
+    <html>
+      ...
+    </html>
 
 ## The head
 
 Moving on another step, you will come across something called as the `<head>` tag. The section between `<head>` and `</head>` houses a lot of information of the webpage. The title you see on the title bar, the stylesheets required by the webpage, other meta information and at times even JavaScript.
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Your page title</title>
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title>Your page title</title>
 
-  <link rel="stylesheet" type="text/css" href="path/to/some/stylesheet">
-  <style type="text/css">
-    /**
-     * You can write some CSS here
-     */
-  </style>
+      <link rel="stylesheet" type="text/css" href="path/to/some/stylesheet">
+      <style type="text/css">
+        /**
+         * You can write some CSS here
+         */
+      </style>
 
-  <script type="text/javascript" src="path/to/some/script"></script>
-  <script type="text/javascript">
-    /**
-     * You can also write JavaScript here.
-     */
-  </script>
-</head>
-  ...
-</html>
-```
+      <script type="text/javascript" src="path/to/some/script"></script>
+      <script type="text/javascript">
+        /**
+         * You can also write JavaScript here.
+         */
+      </script>
+    </head>
+      ...
+    </html>
 
 ### Title
 
@@ -79,16 +73,14 @@ Note: The number of `<link>` and `<script>` you have on your page, is equal to t
 
 Whatever comes inside the body is what you see on the page excluding the stylesheets and the JavaScripts linked beforehand.
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  ...
-</head>
-<body>
-  <h1>Sample Page Title</h1>
+    <!DOCTYPE html>
+    <html>
+    <head>
+      ...
+    </head>
+    <body>
+      <h1>Sample Page Title</h1>
 
-  <p>This is some paragraph text. This text can also contain a <a href="#">link</a>.</p>
-</body>
-</html>
-```
+      <p>This is some paragraph text. This text can also contain a <a href="#">link</a>.</p>
+    </body>
+    </html>
